@@ -28,17 +28,12 @@ Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/41
 ## GNS3 Network simulator (To Know and To Do) 
 - Software: GNS3 - https://gns3.com/
 - Do examples and create a project (for the final exam)
-- =================================
-GNS3 links: 
-=================================
+- GNS3 links: 
 GNS3 website: https://gns3.com/
 GNS3 GitHub page: https://github.com/GNS3/gns3-gui/rele...
 Free Solar-PuTTY: http://bit.ly/SolarPutty
 Free Engineers Toolset: http://bit.ly/gns3toolset
-
-=================================
-Free Software links: 
-=================================
+- Free Software links: 
 SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
 Solar Putty: https://www.solarwinds.com/free-tools...
 SolarWinds NPM: https://www.solarwinds.com/network-pe...
