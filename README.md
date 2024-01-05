@@ -1,5 +1,5 @@
 # 1122_5G-network
-5G system consists of 5G NR (new radio) and 5G core network. 
+5G system consists of **5G NR (new radio)** and **5G core network**. 
 The Hands-on exercises in this course - Tool, reference, and exmples.
 - Matlab 5G tool - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulation, and verification of 5G New Radio (NR) communications systems. 
 - GNS3 - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices, used to simulate complex networks.
