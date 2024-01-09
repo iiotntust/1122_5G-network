@@ -6,7 +6,7 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
 ## Matlab 5G Tool (To know)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
 - Do example
-### Day 1: Installation Matlab 5G Toolbox; Week 2 to Week 5. 
+### Day 1: Installation Matlab and 5G Toolbox; Week 2 to Week 5. 
 Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php 
 ### Day 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
 - https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
