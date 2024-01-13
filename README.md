@@ -4,6 +4,7 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
 - **Matlab 5G toolbox** - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulating, and verifying 5G New Radio (NR) communications systems. 
 - **GNS3** - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices to simulate complex networks.
 ## Matlab 5G Tool (To know)
+In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the 5G Waveform Generator app and download the generated waveform to a Keysight® E4438C vector signal generator for over-the-air transmission using Instrument Control Toolbox.(https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
 - Do example
 ### Day 1: Installation Matlab and 5G Toolbox; Week 2 to Week 5. 
