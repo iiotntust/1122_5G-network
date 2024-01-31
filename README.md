@@ -29,9 +29,9 @@ In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the
 Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php 
 #### Day 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
 - https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
-#### Day 3: Link-Level Simulation, Simulate 5G NR end-to-end wireless communication links.
+#### Day 3 (Option): Link-Level Simulation, Simulate 5G NR end-to-end wireless communication links.
 - https://www.mathworks.com/help/5g/gs/model-5g-nr-communication-links.html
-#### Day 4 (option): Test and Measurement, Evaluate the performance of 5G RF transmitters.
+#### Day 4 (Option): Test and Measurement, Evaluate the performance of 5G RF transmitters.
 - https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html
 #### Day 5 (Option): MIMO and Beamforming, Use channel state information (CSI) feedback to adjust transmission parameters, including code rate, modulation, number of layers, and MIMO precoding matrix.
 - https://www.mathworks.com/videos/beamforming-for-mu-mimo-in-5g-new-radio-1677265377162.html
