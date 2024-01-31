@@ -20,11 +20,11 @@ Graphical Network Simulator-3 is a network software emulator first released in 2
 ### ▶️ Mininet installation
 An Instant Virtual Network on your Laptop (or other PC)
 - Mininet official site: https://mininet.org/
--  
+
 ## :atom: Matlab 5G Tool (To know)
 In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the 5G Waveform Generator app and download the generated waveform to a Keysight® E4438C vector signal generator for over-the-air transmission using Instrument Control Toolbox.(https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
-- Do example: **Day 1 **and **Day 2**
+- Do example: **Day 1**and **Day 2**
 #### Day 1: Installation Matlab and 5G Toolbox;  
 Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php 
 #### Day 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
