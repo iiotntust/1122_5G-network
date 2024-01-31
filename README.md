@@ -5,21 +5,21 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
 - **Matlab 5G toolbox** - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulating, and verifying 5G New Radio (NR) communications systems. 
 
 ## GNS3 Network simulator (To Know and To Do)
-### GNS3 Installation
+### GNS3 Installation (Week01)
 - Software: GNS3 - https://gns3.com/
-- Do examples and create a project (for the final exam)
-- GNS3 links: 
--- GNS3 website: https://gns3.com/
--- GNS3 GitHub page: https://github.com/GNS3/gns3-gui/rele...
--- Free Solar-PuTTY: http://bit.ly/SolarPutty
--- Free Engineers Toolset: http://bit.ly/gns3toolset
-- Free Software links: 
-SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
-Solar Putty: https://www.solarwinds.com/free-tools...
-SolarWinds NPM: https://www.solarwinds.com/network-pe...
-### installation GNS 3; Week 6 to Week 16. 
-1. GNS3 installation video - David Bombal https://www.youtube.com/watch?v=Ibe3hgP8gCA 
-2. 
+- GNS3 installation video - David Bombal https://www.youtube.com/watch?v=Ibe3hgP8gCA 
+- Reference links
+  - GNS3 website: https://gns3.com/
+  - GNS3 GitHub page: https://github.com/GNS3/gns3-gui/rele...
+  - Free Solar-PuTTY: http://bit.ly/SolarPutty
+  - Free Engineers Toolset: http://bit.ly/gns3toolset
+  - SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
+  - Solar Putty: https://www.solarwinds.com/free-tools...
+  - SolarWinds NPM: https://www.solarwinds.com/network-pe...
+### Mininet installation
+An Instant Virtual Network on your Laptop (or other PC)
+- Mininet official site: https://mininet.org/
+-  
 ## Matlab 5G Tool (To know)
 In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the 5G Waveform Generator app and download the generated waveform to a Keysight® E4438C vector signal generator for over-the-air transmission using Instrument Control Toolbox.(https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
