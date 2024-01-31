@@ -4,8 +4,9 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
 - **GNS3** - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices to simulate complex networks.
 - **Matlab 5G toolbox** - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulating, and verifying 5G New Radio (NR) communications systems. 
 
-## GNS3 Network simulator (To Know and To Do)
-### GNS3 Installation (Week01)
+## 🔰GNS3 Network simulator (To Know and To Do)
+Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices, used to simulate complex networks. It uses Dynamips emulation software to simulate Cisco IOS.
+### ▶️ GNS3 Installation (Week01)
 - Software: GNS3 - https://gns3.com/
 - GNS3 installation video - David Bombal https://www.youtube.com/watch?v=Ibe3hgP8gCA 
 - Reference links
@@ -16,11 +17,11 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
   - SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
   - Solar Putty: https://www.solarwinds.com/free-tools...
   - SolarWinds NPM: https://www.solarwinds.com/network-pe...
-### Mininet installation
+### ▶️ Mininet installation
 An Instant Virtual Network on your Laptop (or other PC)
 - Mininet official site: https://mininet.org/
 -  
-## Matlab 5G Tool (To know)
+## :atom: Matlab 5G Tool (To know)
 In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the 5G Waveform Generator app and download the generated waveform to a Keysight® E4438C vector signal generator for over-the-air transmission using Instrument Control Toolbox.(https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
 - Do example
