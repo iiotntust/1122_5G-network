@@ -1,8 +1,9 @@
 # 1122_5G-network
 5G Network consists of **5G NR (new radio)** and **5G Core**. 
 This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) to students to become familiar with 5G technologies by using these tools, references, and examples in these references.
-- **Matlab 5G toolbox** - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulating, and verifying 5G New Radio (NR) communications systems. 
 - **GNS3** - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices to simulate complex networks.
+- **Matlab 5G toolbox** - 5G Toolbox provides standard-compliant functions and reference examples for the modeling, simulating, and verifying 5G New Radio (NR) communications systems. 
+
 ## GNS3 Network simulator (To Know and To Do)
 ### GNS3 Installation
 - Software: GNS3 - https://gns3.com/
