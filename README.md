@@ -9,11 +9,12 @@ Graphical Network Simulator-3 is a network software emulator first released in 2
 ### ▶️ GNS3 Installation (Week01)
 - Software: GNS3 - https://gns3.com/
 - GNS3 installation video - David Bombal https://www.youtube.com/watch?v=Ibe3hgP8gCA 
-- Reference links
+- GNS3 links
   - GNS3 website: https://gns3.com/
   - GNS3 GitHub page: https://github.com/GNS3/gns3-gui/rele...
   - Free Solar-PuTTY: http://bit.ly/SolarPutty
   - Free Engineers Toolset: http://bit.ly/gns3toolset
+- Free Software links: 
   - SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
   - Solar Putty: https://www.solarwinds.com/free-tools...
   - SolarWinds NPM: https://www.solarwinds.com/network-pe...
