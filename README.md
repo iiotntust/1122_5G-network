@@ -27,10 +27,10 @@ In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
 - Do example: **Day 1**and **Day 2**
 ### Exercises in class
-#### - Day 1: Installation Matlab and 5G Toolbox;  
-       - Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php 
-#### - Day 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
-       - https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
+- Day 1: Installation Matlab and 5G Toolbox;  
+  - Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php 
+- Day 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
+   - https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
 ### Optional 
 #### Day 3 (Option): Link-Level Simulation, Simulate 5G NR end-to-end wireless communication links.
 - https://www.mathworks.com/help/5g/gs/model-5g-nr-communication-links.html
