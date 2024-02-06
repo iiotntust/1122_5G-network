@@ -7,6 +7,7 @@ This course introduces the Matlab 5G Toolbox (for 5G NR) and GNS3 (for network) 
 ## 🔰GNS3 Network simulator (To Know and To Do)
 Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices used to simulate complex networks. It uses Dynamips emulation software to simulate Cisco IOS.
 - refer to the instructions in the handout (/GNS3_instruct)
+- the VM ova file will be provided in class. Please ask TA for installation support. (This is an optional. You can either use this .ova file or follow the instructions to install VM by yourself)    
 ### ▶️ GNS3 Installation (Week01)
 - GNS3 official site - https://gns3.com/
 - GNS3 installation video - David Bombal https://www.youtube.com/watch?v=Ibe3hgP8gCA 
