@@ -17,9 +17,9 @@ Graphical Network Simulator-3 is a network software emulator first released in 2
   - Free Solar-PuTTY: http://bit.ly/SolarPutty or https://www.solarwinds.com/free-tools/solar-putty (you can use your school email address for the business email section)
   - Free Engineers Toolset: http://bit.ly/gns3toolset
 - Free Software links: 
-  - SolarWinds TFTP Server: https://www.solarwinds.com/free-tools...
-  - Solar Putty: https://www.solarwinds.com/free-tools...
-  - SolarWinds NPM: https://www.solarwinds.com/network-pe...
+  - SolarWinds TFTP Server: https://www.solarwinds.com/free-tools
+  - Solar Putty: https://www.solarwinds.com/free-tools
+  - SolarWinds NPM: https://www.solarwinds.com/network-performance-monitor
 ### ▶️ VirtualBox 
  - Virtualbox download: https://www.virtualbox.org/
 ### ▶️ Mininet installation
