@@ -38,7 +38,7 @@ In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the
 - 2: Waveform Generation, Generate standard-compliant 5G NR waveforms.
    - https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
 - Examples
-  <img width="774" alt="image" src="https://github.com/iiotntust/1122_5G-network/assets/56021651/ebcbdb10-1b12-4f88-9f9e-709340ee7f55">
+  -  <img width="774" alt="image" src="https://github.com/iiotntust/1122_5G-network/assets/56021651/ebcbdb10-1b12-4f88-9f9e-709340ee7f55">
 
 ### ▶️Optional 
 - 3 (Option): Link-Level Simulation, Simulate 5G NR end-to-end wireless communication links.
