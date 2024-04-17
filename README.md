@@ -28,7 +28,7 @@ An Instant Virtual Network on your Laptop (or other PC)
 ### ▶️ Simulator architecture and configuration  
 - <img width="568" alt="image" src="https://github.com/iiotntust/1122_5G-network/assets/56021651/5ff05b63-4d8e-4f60-b502-a69cd2c95ca1">
 - <img width="625" alt="image" src="https://github.com/iiotntust/1122_5G-network/assets/56021651/b0027a96-d083-4e39-a65d-519bc94d3a41">
-## 🔰Matlab 5G Tool (To know)
+## 🔰Matlab 5G Toolbox (To know)
 In this exercise, we will generate a 5G NR test model (NR-TM) waveform using the 5G Waveform Generator app and download the generated waveform to a Keysight® E4438C vector signal generator for over-the-air transmission using Instrument Control Toolbox.(https://www.mathworks.com/campaigns/offers/next/5g-nr-waveform-generation-and-over-the-air-testing-with-matlab.html)
 - Software: Matlab 5G Tool - https://www.mathworks.com/products/5g.html?s_tid=srchtitle_site_search_1_5G
 - Do example **#1**and **#2**
